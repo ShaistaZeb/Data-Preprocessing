@@ -13,7 +13,7 @@ This repository contains the code and scripts developed during my internship for
 
 - Python
 - Pandas, NumPy for data manipulation
-- Jupyter notebooks for experimentation and analysis
+- Google colab notebooks for experimentation and analysis
 
 ## Usage
 
@@ -29,4 +29,5 @@ This project was part of an internship focused on NLP, data preprocessing, and m
 ---
 
 Feel free to explore the code and reach out for questions or collaboration.
+
 
